@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @APLA2004
-- 👀 Chemistry, physics ans math lover
+- 👀 Chemistry, physics and math lover
 - 🌱 I’m currently learning linear algebra
 
 <!---
