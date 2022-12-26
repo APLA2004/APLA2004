@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @APLA2004
-- 👀 Chemistry, physics and math lover
-- 🌱 I’m currently learning linear algebra
+- 👀 Computer Science Student
+- 🌱 I’m currently learning web development
 
 <!---
 APLA2004/APLA2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
